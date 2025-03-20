@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **Python, Data Analytics**
 
-- 📫 How to reach me [E-mail](prasadbhau2001@gmail.com)
+- 📫 How to reach me : `prasadgaikwad2607@gmail.com`
 
 - ⚡ Fun fact **I am a Mechanical Engineer But I love AI/ML**
 
